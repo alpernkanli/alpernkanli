@@ -1,9 +1,7 @@
 ## Alper Nebi Kanlı
 
-Senior Data Scientist with expertise in machine learning, natural language processing, information retrieval, and data engineering.
+Hey there! I'm Alper Nebi Kanlı. 
 
-Extensive experience in developing advanced algorithms and solutions across various industries.
+Currently, I work as a Senior Data Scientist at Hepsiburada. I have extensive expertise in machine learning, natural language processing, information retrieval, and data engineering.
 
-Passionate about cinema, theatre, and exploring the intersection of language and technology.
-
-Enthusiastic about continuous learning and sharing knowledge.
+Beyond my profession, I am deeply interested in linguistics, philosophy, natural sciences and more.
